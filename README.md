@@ -2,8 +2,8 @@
 
 this project contains functionality about customer such as
 
-Customer
-    Add
-    Update
-    Get
-    Delete
+**Customer**
+   - Add
+   - Update
+   - Get
+   - Delete
